@@ -1,34 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binary Snake
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Binary Snake</h1>
+<h3 align="center">Junior Software Developer</h3>
 
-Junior Software Developer
--------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b1nary-snak3" alt="b1nary-snak3" /></a> </p>
 
-I seriously started studying code 5 years ago, two years before entering the University of technical orientation, I started with C++ and Java, as a result, I now use Python for myself, as an implementation of my ideas. I tried many different directions, but stopped at Software Development and studying in the field of Computer Science. I am also interested in the fields of Machine Learning and Artificial Intelligence.
+- 📫 How to reach me **code.for.snake@gmail.com**
 
-* 🌍  I'm based in Belarus
-* ✉️  You can contact me at [code.for.snake@gmail.com](mailto:code.for.snake@gmail.com)
-* 🧠  I'm learning how to build Metal Gear
-* ⚡  Programming💻 is my element and I am a master in it😎
+- 🧠 I'm currently learning: [how to build Metal Gear](how to build Metal Gear)
 
-### Skills
+- ⚡ Fun fact **Programming💻 is my element and I am a master in it😎**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-ICON ICON ICON ICON ICON
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1nary-snak3&show_icons=true&title_color=00ff04&text_color=ffffff&locale=en&layout=compact" alt="b1nary-snak3" /></p>
 
-<p align="left"> <a href="https://www.github.com/b1nary-snak3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b1nary-snak3&show_icons=true&title_color=00ff40&text_color=ffffff&locale=en" alt="b1nary-snak3" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/b1nary-snak3"><img src="https://github-readme-stats.vercel.app/api?username=b1nary-snak3&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="b1nary-snak3's GitHub stats" /></a>
-
-<a href="http://www.github.com/b1nary-snak3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=b1nary-snak3&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/b1nary-snak3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1nary-snak3&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b1nary-snak3&theme=dark" alt="b1nary-snak3" /></p>
