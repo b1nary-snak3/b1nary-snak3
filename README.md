@@ -24,7 +24,6 @@ I seriously started studying code 5 years ago, two years before entering the Uni
 
 
 
-
 <img align="center" alt="Coding" width="600" src="https://64.media.tumblr.com/568d3e7a09e526859bfac355de0302aa/tumblr_mzzq9cAoAC1ql8t12o1_500.gifv">
 
 ### Badges
