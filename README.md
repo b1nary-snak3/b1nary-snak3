@@ -9,7 +9,6 @@ Junior Software Developer
 I seriously started studying code 5 years ago, two years before entering the University of technical orientation, I started with C++ and Java, as a result, I now use Python for myself, as an implementation of my ideas. I tried many different directions, but stopped at Software Development and studying in the field of Computer Science. I am also interested in the fields of Machine Learning and Artificial Intelligence.
 
 * 🌍  I'm based in Belarus
-* ✉️  You can contact me at [code.for.snake@gmail.com](mailto:code.for.snake@gmail.com)
 * 🧠  I'm learning how to build Metal Gear
 * ⚡  Programming💻 is my element and I am a master in it😎
 
